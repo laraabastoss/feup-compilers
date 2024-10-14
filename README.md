@@ -6,11 +6,16 @@ year 3, semestre 2
 
 ### Project - Java-- Compiler (Grade: 19/20)
 
-Checkpoint 1: 20/20
-Checkpoint 2: 20/20
-Checkpoint 3: 19/20
+A Compiler for a subset of the Java language.
 
-**Technologies Used:** Java
+**Checkpoint 1**: grade 20/20
+
+**Checkpoint 2**: grade 20/20
+
+**Checkpoint 3**: grade 19/20
+
+
+**Technologies Used:** Java, 
 
 #### Developed by:
 
