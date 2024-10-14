@@ -15,7 +15,7 @@ A Compiler for a subset of the Java language.
 **Checkpoint 3**: grade 19/20
 
 
-**Technologies Used:** Java, 
+**Technologies Used:** Java
 
 #### Developed by:
 
